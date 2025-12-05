@@ -40,21 +40,26 @@
    
    - **Log-in Scene**
    <img width="668" height="494" alt="Screenshot 2025-12-05 at 8 39 57 AM" src="https://github.com/user-attachments/assets/7ef6a7f9-c812-49b0-b9ad-2df149ec8d64" />
+   
    ---
    
    - **Home Scene**
    <img width="668" height="494" alt="Screenshot 2025-12-05 at 8 40 30 AM" src="https://github.com/user-attachments/assets/60897460-92b2-4150-8d20-349cb39e659d" />
+   
    ---
    
    - **Chat Scene**
    <img width="668" height="494" alt="Screenshot 2025-12-05 at 8 40 57 AM" src="https://github.com/user-attachments/assets/b9685c6d-b21a-4351-aad5-68c4b8b318da" />
+   
    ---
    
    - **Stock Scene**
    <img width="668" height="494" alt="Screenshot 2025-12-05 at 8 41 35 AM" src="https://github.com/user-attachments/assets/13e8b942-cf99-4cc4-8507-2db0af1d5618" />
+   
    ---
    
    - **Calculator Scene**
    <img width="668" height="494" alt="Screenshot 2025-12-05 at 8 42 12 AM" src="https://github.com/user-attachments/assets/ca651f26-e4d9-4736-892a-a01a584fa5f8" />
+   
    ---
 
